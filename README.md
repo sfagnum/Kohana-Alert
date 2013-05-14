@@ -1,4 +1,10 @@
 Kohana-Alert
 ============
 
-one more messaging module through session
+One more messaging module through session.
+Use Twitter Bootstrap alert template.
+
+Example:
+Alert::push("message", Alert::SUCCESS);
+
+Alert::push(e->errors());

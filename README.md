@@ -1,7 +1,7 @@
 Kohana-Alert
 ============
 
-One more messaging module through session.
+One more flash messaging module through session for Kohana 3.3
 
 Use Twitter Bootstrap alert template.
 
